@@ -31,7 +31,7 @@ A custom node for ComfyUI designed to calculate batch information (start frame, 
     Example for a pack named `ComfyUI-MyVideoTools`:
     ```bash
     cd ComfyUI/custom_nodes/
-    git clone https://github.com/YOUR_GITHUB_USERNAME/ComfyUI-MyVideoTools.git
+    git clone https://github.com/Penposs/ComfyUI-LoopRun.git
     ```
     (Replace with the actual repository URL.)
     Alternatively, if it's a single file distribution, place the `batch_info_calculator.py` and `__init__.py` (if provided as part of a minimal pack structure) into a new folder like `ComfyUI-MyVideoTools` inside `ComfyUI/custom_nodes/`.
@@ -42,11 +42,11 @@ A custom node for ComfyUI designed to calculate batch information (start frame, 
 ## 安装
 
 1.  **克隆或下载:**
-    如果此节点是一个更大包（例如 `ComfyUI-MyVideoTools`）的一部分，请将该包克隆或下载到您的 `ComfyUI/custom_nodes/` 目录中。
+    如果此节点是一个更大包（例如 `ComfyUI-LoopRun`）的一部分，请将该包克隆或下载到您的 `ComfyUI/custom_nodes/` 目录中。
     名为 `ComfyUI-MyVideoTools` 的包的示例：
     ```bash
     cd ComfyUI/custom_nodes/
-    git clone https://github.com/YOUR_GITHUB_USERNAME/ComfyUI-MyVideoTools.git
+    git clone https://github.com/penposs/ComfyUI-LoopRun.git
     ```
     (请替换为实际的仓库 URL。)
     或者，如果是单个文件分发，请将 `batch_info_calculator.py` 和 `__init__.py`（如果作为最小包结构的一部分提供）放入 `ComfyUI/custom_nodes/` 内的新文件夹中，例如 `ComfyUI-MyVideoTools`。
