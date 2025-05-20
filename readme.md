@@ -7,6 +7,8 @@ A custom node for ComfyUI designed to calculate batch information (start frame, 
 一个为 ComfyUI 设计的自定义节点，用于计算处理序列（如视频帧）的批处理信息（起始帧、帧计数）。它旨在与外部机制（例如手动整数输入或每次生成后自动递增的专用整数节点）配合使用，以提供“当前运行轮次”。
 
 ---
+![f03853c49b988085ecc45264d992d32](https://github.com/user-attachments/assets/829c980f-2759-487a-9201-6e3e03510ce3)
+
 
 ## Features
 
